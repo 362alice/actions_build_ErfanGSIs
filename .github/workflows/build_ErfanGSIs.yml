@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16T/8.1.5.1/cn/20210826144247/1d39fdba/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://xiaomirom.com/download/mi-9-cepheus-stable-V12.0.6.0.QFACNXM/#china-recovery
+  ROM_NAME: MIUI
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
