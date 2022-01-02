@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s/8.1.5.3/cn/20211228110054/b817c4a0/update.zip
-  ROM_NAME: Flyme
-  BUILD_TYPE: AB
+  ROM_URL: http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.41_OTA_0410_all_2110111139_d629bd389d7746ed.zip
+  ROM_NAME: OxygenOs
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
