@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16T/8.1.5.1/cn/20210826144247/1d39fdba/update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16s/8.1.5.3/cn/20211228110054/b817c4a0/update.zip
   ROM_NAME: Flyme
-  BUILD_TYPE: ab
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
